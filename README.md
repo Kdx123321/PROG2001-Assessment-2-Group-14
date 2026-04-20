@@ -6,10 +6,10 @@ A 3D endless runner game developed with Unity as part of the PROG2001 Assessment
 
 | Student | Name | Student ID | Scene |
 |---------|------|------------|-------|
-| Student 1 | [Name] | [ID] | Jungle Scene |
+| Student 1 | Dongxu Li| 24832300 | Jungle Scene |
 | Student 2 | Dexin Kong | 24832287 | River Scene |
-| Student 3 | [Name] | [ID] | Land Scene |
-| Student 4 | [Name] | [ID] | Sky Scene |
+| Student 3 | Ziheng Huo | 24832223 | Land Scene |
+| Student 4 | Chengwu Liu | 24832423 | Sky Scene |
 
 ## Game Overview
 
